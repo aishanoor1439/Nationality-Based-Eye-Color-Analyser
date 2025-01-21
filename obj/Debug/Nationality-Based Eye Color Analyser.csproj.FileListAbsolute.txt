@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Nationality-Based Eye Color Analyser\bin\Debug\Nationality-Based Eye Color Analyser.exe.config
+C:\Users\DELL\source\repos\Nationality-Based Eye Color Analyser\bin\Debug\Nationality-Based Eye Color Analyser.exe
+C:\Users\DELL\source\repos\Nationality-Based Eye Color Analyser\bin\Debug\Nationality-Based Eye Color Analyser.pdb
+C:\Users\DELL\source\repos\Nationality-Based Eye Color Analyser\obj\Debug\Nationality-Based Eye Color Analyser.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Nationality-Based Eye Color Analyser\obj\Debug\Nationality-Based Eye Color Analyser.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Nationality-Based Eye Color Analyser\obj\Debug\Nationality-Based Eye Color Analyser.exe
+C:\Users\DELL\source\repos\Nationality-Based Eye Color Analyser\obj\Debug\Nationality-Based Eye Color Analyser.pdb

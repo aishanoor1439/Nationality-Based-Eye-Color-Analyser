@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nationality-Based Eye Color Analyser", "Nationality-Based Eye Color Analyser.csproj", "{98620E10-A380-434A-8D20-DA94C929AC54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98620E10-A380-434A-8D20-DA94C929AC54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98620E10-A380-434A-8D20-DA94C929AC54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98620E10-A380-434A-8D20-DA94C929AC54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98620E10-A380-434A-8D20-DA94C929AC54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D23F53D-0E6F-4092-868E-C867D1999C32}
+	EndGlobalSection
+EndGlobal
